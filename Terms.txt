@@ -1,0 +1,57 @@
+Terms and Conditions
+
+Welcome to Meelad Reels! These Terms and Conditions ("Terms") govern your use of the Meelad Reels mobile application (the "App") and any related services provided by Meelad Reels, Inc. ("we", "us", or "our"). By accessing or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the App.
+
+1. User Accounts
+
+1.1. Account Creation: To use certain features of the App, you may need to create an account. You must provide accurate and complete information and update it as necessary to keep it current.
+
+1.2. Responsibility: You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account.
+
+1.3. Termination: We reserve the right to terminate or suspend your account if we believe you have violated these Terms.
+
+2. Use of the App
+
+2.1. Eligibility: You must be at least [insert minimum age, e.g., 13] years old to use the App. By using the App, you represent and warrant that you meet this requirement.
+
+2.2. Prohibited Activities: You agree not to engage in any of the following prohibited activities:
+
+Violating any applicable laws or regulations.
+Posting or transmitting content that is illegal, harmful, abusive, defamatory, or otherwise objectionable.
+Attempting to interfere with the App’s functionality or security.
+2.3. Content Ownership: You retain ownership of any content you create or upload to the App, but by using the App, you grant us a non-exclusive, royalty-free, perpetual, and worldwide license to use, display, and distribute your content.
+
+3. Intellectual Property
+
+3.1. App Content: All content and materials available through the App, including logos, graphics, and software, are the property of Meelad Reels, Inc. and are protected by intellectual property laws.
+
+3.2. Limited License: We grant you a limited, non-exclusive, non-transferable license to access and use the App for personal and non-commercial purposes.
+
+4. Privacy
+
+4.1. Data Collection: We collect and use personal data as described in our Privacy Policy. By using the App, you consent to the collection and use of your data as outlined in the Privacy Policy.
+
+4.2. Security: We implement reasonable measures to protect your data, but we cannot guarantee absolute security.
+
+5. Disclaimers and Limitation of Liability
+
+5.1. Disclaimers: The App is provided "as is" without warranties of any kind. We disclaim all warranties, express or implied, including but not limited to implied warranties of merchantability or fitness for a particular purpose.
+
+5.2. Limitation of Liability: To the fullest extent permitted by law, we are not liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the App.
+
+6. Changes to Terms
+
+6.1. Modifications: We may update these Terms from time to time. We will notify you of any material changes by posting the new Terms on the App or through other communication channels.
+
+6.2. Acceptance: Your continued use of the App after changes to these Terms constitutes your acceptance of the modified Terms.
+
+7. Governing Law
+
+These Terms are governed by and construed in accordance with the laws of [insert jurisdiction, e.g., the State of California, USA], without regard to its conflict of law principles.
+
+8. Contact Us
+
+If you have any questions or concerns about these Terms or the App, please contact us at:
+
+Meelad Reels, Inc.
+Email: dev.nishmal@gmail.com
